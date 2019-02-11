@@ -16,6 +16,16 @@ main.h
 main.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 
+/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.cpp
+arrow.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
 /home/vaibhav/Assignments/Graphics/2/20171005/src/ball.cpp
 ball.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/ball.h
@@ -43,6 +53,26 @@ main.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 
 /home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/can.cpp
+can.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.cpp
+checkpoint.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
 main.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 
@@ -107,6 +137,16 @@ ring.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/ring.h
 pointer.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.h
+can.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+volcano.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+checkpoint.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
+arrow.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+parachute.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
 
 /home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 iostream
@@ -184,6 +224,16 @@ glm/gtc/matrix_transform.hpp
 main.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 
+/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.cpp
+parachute.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
 /home/vaibhav/Assignments/Graphics/2/20171005/src/plane.cpp
 plane.h
 /home/vaibhav/Assignments/Graphics/2/20171005/src/plane.h
@@ -235,4 +285,14 @@ GLFW/glfw3.h
 -
 
 /home/vaibhav/Assignments/Graphics/2/20171005/src/timer.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.cpp
+volcano.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+
+/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+main.h
+/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
 

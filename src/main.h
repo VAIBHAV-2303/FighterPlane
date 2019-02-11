@@ -90,5 +90,9 @@ extern const color_t COLOR_SKY;
 extern const color_t COLOR_PLANE;
 extern const color_t COLOR_OCEAN;
 extern const color_t COLOR_YELLOW;
+extern const color_t COLOR_LAVA;
+extern const color_t COLOR_SAND;
+extern const color_t COLOR_DARK;
+extern const color_t COLOR_CRATE;
 
 #endif

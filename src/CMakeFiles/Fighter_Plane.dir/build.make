@@ -105,9 +105,57 @@ CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o.provides: CMakeFiles/Fighter_Plane.di
 CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o
 
 
+CMakeFiles/Fighter_Plane.dir/can.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
+CMakeFiles/Fighter_Plane.dir/can.cpp.o: can.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Fighter_Plane.dir/can.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/can.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/can.cpp
+
+CMakeFiles/Fighter_Plane.dir/can.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Fighter_Plane.dir/can.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/2/20171005/src/can.cpp > CMakeFiles/Fighter_Plane.dir/can.cpp.i
+
+CMakeFiles/Fighter_Plane.dir/can.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Fighter_Plane.dir/can.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/2/20171005/src/can.cpp -o CMakeFiles/Fighter_Plane.dir/can.cpp.s
+
+CMakeFiles/Fighter_Plane.dir/can.cpp.o.requires:
+
+.PHONY : CMakeFiles/Fighter_Plane.dir/can.cpp.o.requires
+
+CMakeFiles/Fighter_Plane.dir/can.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/can.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/can.cpp.o.provides.build
+.PHONY : CMakeFiles/Fighter_Plane.dir/can.cpp.o.provides
+
+CMakeFiles/Fighter_Plane.dir/can.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/can.cpp.o
+
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o: checkpoint.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.cpp
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.cpp > CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.i
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.cpp -o CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.s
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.requires:
+
+.PHONY : CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.requires
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.provides.build
+.PHONY : CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.provides
+
+CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o
+
+
 CMakeFiles/Fighter_Plane.dir/pointer.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/pointer.cpp.o: pointer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Fighter_Plane.dir/pointer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Fighter_Plane.dir/pointer.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/pointer.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.cpp
 
 CMakeFiles/Fighter_Plane.dir/pointer.cpp.i: cmake_force
@@ -131,7 +179,7 @@ CMakeFiles/Fighter_Plane.dir/pointer.cpp.o.provides.build: CMakeFiles/Fighter_Pl
 
 CMakeFiles/Fighter_Plane.dir/fuel.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/fuel.cpp.o: fuel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Fighter_Plane.dir/fuel.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Fighter_Plane.dir/fuel.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/fuel.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/fuel.cpp
 
 CMakeFiles/Fighter_Plane.dir/fuel.cpp.i: cmake_force
@@ -155,7 +203,7 @@ CMakeFiles/Fighter_Plane.dir/fuel.cpp.o.provides.build: CMakeFiles/Fighter_Plane
 
 CMakeFiles/Fighter_Plane.dir/color.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/color.cpp.o: color.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Fighter_Plane.dir/color.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Fighter_Plane.dir/color.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/color.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/color.cpp
 
 CMakeFiles/Fighter_Plane.dir/color.cpp.i: cmake_force
@@ -179,7 +227,7 @@ CMakeFiles/Fighter_Plane.dir/color.cpp.o.provides.build: CMakeFiles/Fighter_Plan
 
 CMakeFiles/Fighter_Plane.dir/speedo.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/speedo.cpp.o: speedo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Fighter_Plane.dir/speedo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Fighter_Plane.dir/speedo.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/speedo.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/speedo.cpp
 
 CMakeFiles/Fighter_Plane.dir/speedo.cpp.i: cmake_force
@@ -203,7 +251,7 @@ CMakeFiles/Fighter_Plane.dir/speedo.cpp.o.provides.build: CMakeFiles/Fighter_Pla
 
 CMakeFiles/Fighter_Plane.dir/bg.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/bg.cpp.o: bg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Fighter_Plane.dir/bg.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Fighter_Plane.dir/bg.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/bg.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/bg.cpp
 
 CMakeFiles/Fighter_Plane.dir/bg.cpp.i: cmake_force
@@ -227,7 +275,7 @@ CMakeFiles/Fighter_Plane.dir/bg.cpp.o.provides.build: CMakeFiles/Fighter_Plane.d
 
 CMakeFiles/Fighter_Plane.dir/input.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/input.cpp.o: input.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Fighter_Plane.dir/input.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Fighter_Plane.dir/input.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/input.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/input.cpp
 
 CMakeFiles/Fighter_Plane.dir/input.cpp.i: cmake_force
@@ -251,7 +299,7 @@ CMakeFiles/Fighter_Plane.dir/input.cpp.o.provides.build: CMakeFiles/Fighter_Plan
 
 CMakeFiles/Fighter_Plane.dir/plane.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/plane.cpp.o: plane.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Fighter_Plane.dir/plane.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Fighter_Plane.dir/plane.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/plane.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/plane.cpp
 
 CMakeFiles/Fighter_Plane.dir/plane.cpp.i: cmake_force
@@ -275,7 +323,7 @@ CMakeFiles/Fighter_Plane.dir/plane.cpp.o.provides.build: CMakeFiles/Fighter_Plan
 
 CMakeFiles/Fighter_Plane.dir/timer.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/timer.cpp.o: timer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Fighter_Plane.dir/timer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Fighter_Plane.dir/timer.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/timer.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/timer.cpp
 
 CMakeFiles/Fighter_Plane.dir/timer.cpp.i: cmake_force
@@ -299,7 +347,7 @@ CMakeFiles/Fighter_Plane.dir/timer.cpp.o.provides.build: CMakeFiles/Fighter_Plan
 
 CMakeFiles/Fighter_Plane.dir/bomb.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/bomb.cpp.o: bomb.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Fighter_Plane.dir/bomb.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Fighter_Plane.dir/bomb.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/bomb.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.cpp
 
 CMakeFiles/Fighter_Plane.dir/bomb.cpp.i: cmake_force
@@ -323,7 +371,7 @@ CMakeFiles/Fighter_Plane.dir/bomb.cpp.o.provides.build: CMakeFiles/Fighter_Plane
 
 CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o: other_handlers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/other_handlers.cpp
 
 CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.i: cmake_force
@@ -345,9 +393,33 @@ CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o.provides: CMakeFiles/Fighter_P
 CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o
 
 
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.o: arrow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Fighter_Plane.dir/arrow.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/arrow.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.cpp
+
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Fighter_Plane.dir/arrow.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.cpp > CMakeFiles/Fighter_Plane.dir/arrow.cpp.i
+
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Fighter_Plane.dir/arrow.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.cpp -o CMakeFiles/Fighter_Plane.dir/arrow.cpp.s
+
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.requires:
+
+.PHONY : CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.requires
+
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.provides.build
+.PHONY : CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.provides
+
+CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/arrow.cpp.o
+
+
 CMakeFiles/Fighter_Plane.dir/missile.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/missile.cpp.o: missile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Fighter_Plane.dir/missile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Fighter_Plane.dir/missile.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/missile.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/missile.cpp
 
 CMakeFiles/Fighter_Plane.dir/missile.cpp.i: cmake_force
@@ -369,9 +441,33 @@ CMakeFiles/Fighter_Plane.dir/missile.cpp.o.provides: CMakeFiles/Fighter_Plane.di
 CMakeFiles/Fighter_Plane.dir/missile.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/missile.cpp.o
 
 
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.o: volcano.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Fighter_Plane.dir/volcano.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/volcano.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.cpp
+
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Fighter_Plane.dir/volcano.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.cpp > CMakeFiles/Fighter_Plane.dir/volcano.cpp.i
+
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Fighter_Plane.dir/volcano.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.cpp -o CMakeFiles/Fighter_Plane.dir/volcano.cpp.s
+
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.requires:
+
+.PHONY : CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.requires
+
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.provides.build
+.PHONY : CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.provides
+
+CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/volcano.cpp.o
+
+
 CMakeFiles/Fighter_Plane.dir/alti.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/alti.cpp.o: alti.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Fighter_Plane.dir/alti.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Fighter_Plane.dir/alti.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/alti.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/alti.cpp
 
 CMakeFiles/Fighter_Plane.dir/alti.cpp.i: cmake_force
@@ -395,7 +491,7 @@ CMakeFiles/Fighter_Plane.dir/alti.cpp.o.provides.build: CMakeFiles/Fighter_Plane
 
 CMakeFiles/Fighter_Plane.dir/ball.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/ball.cpp.o: ball.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Fighter_Plane.dir/ball.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Fighter_Plane.dir/ball.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/ball.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/ball.cpp
 
 CMakeFiles/Fighter_Plane.dir/ball.cpp.i: cmake_force
@@ -419,7 +515,7 @@ CMakeFiles/Fighter_Plane.dir/ball.cpp.o.provides.build: CMakeFiles/Fighter_Plane
 
 CMakeFiles/Fighter_Plane.dir/main.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
 CMakeFiles/Fighter_Plane.dir/main.cpp.o: main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Fighter_Plane.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Fighter_Plane.dir/main.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/main.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/main.cpp
 
 CMakeFiles/Fighter_Plane.dir/main.cpp.i: cmake_force
@@ -441,10 +537,36 @@ CMakeFiles/Fighter_Plane.dir/main.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/m
 CMakeFiles/Fighter_Plane.dir/main.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/main.cpp.o
 
 
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.o: CMakeFiles/Fighter_Plane.dir/flags.make
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.o: parachute.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Fighter_Plane.dir/parachute.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Fighter_Plane.dir/parachute.cpp.o -c /home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.cpp
+
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Fighter_Plane.dir/parachute.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.cpp > CMakeFiles/Fighter_Plane.dir/parachute.cpp.i
+
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Fighter_Plane.dir/parachute.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.cpp -o CMakeFiles/Fighter_Plane.dir/parachute.cpp.s
+
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.requires:
+
+.PHONY : CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.requires
+
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.provides: CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.provides.build
+.PHONY : CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.provides
+
+CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.provides.build: CMakeFiles/Fighter_Plane.dir/parachute.cpp.o
+
+
 # Object files for target Fighter_Plane
 Fighter_Plane_OBJECTS = \
 "CMakeFiles/Fighter_Plane.dir/ring.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o" \
+"CMakeFiles/Fighter_Plane.dir/can.cpp.o" \
+"CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/pointer.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/fuel.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/color.cpp.o" \
@@ -455,16 +577,21 @@ Fighter_Plane_OBJECTS = \
 "CMakeFiles/Fighter_Plane.dir/timer.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/bomb.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o" \
+"CMakeFiles/Fighter_Plane.dir/arrow.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/missile.cpp.o" \
+"CMakeFiles/Fighter_Plane.dir/volcano.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/alti.cpp.o" \
 "CMakeFiles/Fighter_Plane.dir/ball.cpp.o" \
-"CMakeFiles/Fighter_Plane.dir/main.cpp.o"
+"CMakeFiles/Fighter_Plane.dir/main.cpp.o" \
+"CMakeFiles/Fighter_Plane.dir/parachute.cpp.o"
 
 # External object files for target Fighter_Plane
 Fighter_Plane_EXTERNAL_OBJECTS =
 
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/ring.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o
+Fighter_Plane: CMakeFiles/Fighter_Plane.dir/can.cpp.o
+Fighter_Plane: CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/pointer.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/fuel.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/color.cpp.o
@@ -475,13 +602,16 @@ Fighter_Plane: CMakeFiles/Fighter_Plane.dir/plane.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/timer.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/bomb.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o
+Fighter_Plane: CMakeFiles/Fighter_Plane.dir/arrow.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/missile.cpp.o
+Fighter_Plane: CMakeFiles/Fighter_Plane.dir/volcano.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/alti.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/ball.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/main.cpp.o
+Fighter_Plane: CMakeFiles/Fighter_Plane.dir/parachute.cpp.o
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/build.make
 Fighter_Plane: CMakeFiles/Fighter_Plane.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable Fighter_Plane"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vaibhav/Assignments/Graphics/2/20171005/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable Fighter_Plane"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Fighter_Plane.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -491,6 +621,8 @@ CMakeFiles/Fighter_Plane.dir/build: Fighter_Plane
 
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/ring.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o.requires
+CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/can.cpp.o.requires
+CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/pointer.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/fuel.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/color.cpp.o.requires
@@ -501,10 +633,13 @@ CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/plane.cpp.o.
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/timer.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/bomb.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o.requires
+CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/arrow.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/missile.cpp.o.requires
+CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/volcano.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/alti.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/ball.cpp.o.requires
 CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/main.cpp.o.requires
+CMakeFiles/Fighter_Plane.dir/requires: CMakeFiles/Fighter_Plane.dir/parachute.cpp.o.requires
 
 .PHONY : CMakeFiles/Fighter_Plane.dir/requires
 

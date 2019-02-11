@@ -150,6 +150,33 @@ alti.cpp.s:
 	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/alti.cpp.s
 .PHONY : alti.cpp.s
 
+arrow.o: arrow.cpp.o
+
+.PHONY : arrow.o
+
+# target to build an object file
+arrow.cpp.o:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/arrow.cpp.o
+.PHONY : arrow.cpp.o
+
+arrow.i: arrow.cpp.i
+
+.PHONY : arrow.i
+
+# target to preprocess a source file
+arrow.cpp.i:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/arrow.cpp.i
+.PHONY : arrow.cpp.i
+
+arrow.s: arrow.cpp.s
+
+.PHONY : arrow.s
+
+# target to generate assembly for a file
+arrow.cpp.s:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/arrow.cpp.s
+.PHONY : arrow.cpp.s
+
 ball.o: ball.cpp.o
 
 .PHONY : ball.o
@@ -230,6 +257,60 @@ bomb.s: bomb.cpp.s
 bomb.cpp.s:
 	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/bomb.cpp.s
 .PHONY : bomb.cpp.s
+
+can.o: can.cpp.o
+
+.PHONY : can.o
+
+# target to build an object file
+can.cpp.o:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/can.cpp.o
+.PHONY : can.cpp.o
+
+can.i: can.cpp.i
+
+.PHONY : can.i
+
+# target to preprocess a source file
+can.cpp.i:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/can.cpp.i
+.PHONY : can.cpp.i
+
+can.s: can.cpp.s
+
+.PHONY : can.s
+
+# target to generate assembly for a file
+can.cpp.s:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/can.cpp.s
+.PHONY : can.cpp.s
+
+checkpoint.o: checkpoint.cpp.o
+
+.PHONY : checkpoint.o
+
+# target to build an object file
+checkpoint.cpp.o:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o
+.PHONY : checkpoint.cpp.o
+
+checkpoint.i: checkpoint.cpp.i
+
+.PHONY : checkpoint.i
+
+# target to preprocess a source file
+checkpoint.cpp.i:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.i
+.PHONY : checkpoint.cpp.i
+
+checkpoint.s: checkpoint.cpp.s
+
+.PHONY : checkpoint.s
+
+# target to generate assembly for a file
+checkpoint.cpp.s:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.s
+.PHONY : checkpoint.cpp.s
 
 color.o: color.cpp.o
 
@@ -420,6 +501,33 @@ other_handlers.cpp.s:
 	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.s
 .PHONY : other_handlers.cpp.s
 
+parachute.o: parachute.cpp.o
+
+.PHONY : parachute.o
+
+# target to build an object file
+parachute.cpp.o:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/parachute.cpp.o
+.PHONY : parachute.cpp.o
+
+parachute.i: parachute.cpp.i
+
+.PHONY : parachute.i
+
+# target to preprocess a source file
+parachute.cpp.i:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/parachute.cpp.i
+.PHONY : parachute.cpp.i
+
+parachute.s: parachute.cpp.s
+
+.PHONY : parachute.s
+
+# target to generate assembly for a file
+parachute.cpp.s:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/parachute.cpp.s
+.PHONY : parachute.cpp.s
+
 plane.o: plane.cpp.o
 
 .PHONY : plane.o
@@ -555,6 +663,33 @@ timer.cpp.s:
 	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/timer.cpp.s
 .PHONY : timer.cpp.s
 
+volcano.o: volcano.cpp.o
+
+.PHONY : volcano.o
+
+# target to build an object file
+volcano.cpp.o:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/volcano.cpp.o
+.PHONY : volcano.cpp.o
+
+volcano.i: volcano.cpp.i
+
+.PHONY : volcano.i
+
+# target to preprocess a source file
+volcano.cpp.i:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/volcano.cpp.i
+.PHONY : volcano.cpp.i
+
+volcano.s: volcano.cpp.s
+
+.PHONY : volcano.s
+
+# target to generate assembly for a file
+volcano.cpp.s:
+	$(MAKE) -f CMakeFiles/Fighter_Plane.dir/build.make CMakeFiles/Fighter_Plane.dir/volcano.cpp.s
+.PHONY : volcano.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -567,6 +702,9 @@ help:
 	@echo "... alti.o"
 	@echo "... alti.i"
 	@echo "... alti.s"
+	@echo "... arrow.o"
+	@echo "... arrow.i"
+	@echo "... arrow.s"
 	@echo "... ball.o"
 	@echo "... ball.i"
 	@echo "... ball.s"
@@ -576,6 +714,12 @@ help:
 	@echo "... bomb.o"
 	@echo "... bomb.i"
 	@echo "... bomb.s"
+	@echo "... can.o"
+	@echo "... can.i"
+	@echo "... can.s"
+	@echo "... checkpoint.o"
+	@echo "... checkpoint.i"
+	@echo "... checkpoint.s"
 	@echo "... color.o"
 	@echo "... color.i"
 	@echo "... color.s"
@@ -597,6 +741,9 @@ help:
 	@echo "... other_handlers.o"
 	@echo "... other_handlers.i"
 	@echo "... other_handlers.s"
+	@echo "... parachute.o"
+	@echo "... parachute.i"
+	@echo "... parachute.s"
 	@echo "... plane.o"
 	@echo "... plane.i"
 	@echo "... plane.s"
@@ -612,6 +759,9 @@ help:
 	@echo "... timer.o"
 	@echo "... timer.i"
 	@echo "... timer.s"
+	@echo "... volcano.o"
+	@echo "... volcano.i"
+	@echo "... volcano.s"
 .PHONY : help
 
 

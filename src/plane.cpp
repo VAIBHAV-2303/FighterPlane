@@ -142,8 +142,10 @@ void Plane::move_up(){
 void Plane::tick() {
     this->position.x+=-speedxz*sin(this->yrotation*M_PI/180.0f);
     this->position.z+=-speedxz*cos(this->yrotation*M_PI/180.0f);
-    this->speedy-=(3.0/200.0);
-    this->position.y+=speedy;
+    if(this->hover==0){
+        this->speedy-=(3.0/200.0);
+        this->position.y+=speedy;
+    }
     this->yrotation+=(zrotation/80.0f);
     zrotation-=(zrotation/80.0f);
 }

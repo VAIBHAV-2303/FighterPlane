@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Fighter_Plane.dir/ring.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/nonedit.cpp.o"
+  "CMakeFiles/Fighter_Plane.dir/can.cpp.o"
+  "CMakeFiles/Fighter_Plane.dir/checkpoint.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/pointer.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/fuel.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/color.cpp.o"
@@ -11,10 +13,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/Fighter_Plane.dir/timer.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/bomb.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/other_handlers.cpp.o"
+  "CMakeFiles/Fighter_Plane.dir/arrow.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/missile.cpp.o"
+  "CMakeFiles/Fighter_Plane.dir/volcano.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/alti.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/ball.cpp.o"
   "CMakeFiles/Fighter_Plane.dir/main.cpp.o"
+  "CMakeFiles/Fighter_Plane.dir/parachute.cpp.o"
   "Fighter_Plane.pdb"
   "Fighter_Plane"
 )

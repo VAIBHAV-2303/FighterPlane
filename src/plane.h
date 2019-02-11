@@ -20,6 +20,7 @@ public:
     void tilt_left();
     void tilt_right();
     double speedxz, speedy;
+    int hover;
 private:
     VAO *object;
 };
