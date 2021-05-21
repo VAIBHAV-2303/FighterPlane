@@ -21,6 +21,14 @@ A simple 3D plane simulator game, developed using basic OPenGl. The game is divi
 
 ## How To Run
 
+Change the following variables in src/Makefile
+```
+CMAKE_SOURCE_DIR = ..
+CMAKE_BINARY_DIR = .
+```
+
+If there is a file called src/CmakeCache.txt, make sure to delete it.
+
 ```bash
 bar@foo:~/FighterPlane/src$ make
 bar@foo:~/FighterPlane/src$ ./FighterPlane
