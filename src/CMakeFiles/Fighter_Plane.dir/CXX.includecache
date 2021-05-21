@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,91 +6,91 @@
 
 #IncludeRegexTransform: 
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/alti.cpp
+/home/vaibhav/FighterPlane/src/alti.cpp
 alti.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/alti.h
+/home/vaibhav/FighterPlane/src/alti.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/alti.h
+/home/vaibhav/FighterPlane/src/alti.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.cpp
+/home/vaibhav/FighterPlane/src/arrow.cpp
 arrow.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+/home/vaibhav/FighterPlane/src/arrow.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+/home/vaibhav/FighterPlane/src/arrow.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ball.cpp
+/home/vaibhav/FighterPlane/src/ball.cpp
 ball.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ball.h
+/home/vaibhav/FighterPlane/src/ball.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ball.h
+/home/vaibhav/FighterPlane/src/ball.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bg.cpp
+/home/vaibhav/FighterPlane/src/bg.cpp
 bg.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bg.h
+/home/vaibhav/FighterPlane/src/bg.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bg.h
+/home/vaibhav/FighterPlane/src/bg.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.cpp
+/home/vaibhav/FighterPlane/src/bomb.cpp
 bomb.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.h
+/home/vaibhav/FighterPlane/src/bomb.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.h
+/home/vaibhav/FighterPlane/src/bomb.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/can.cpp
+/home/vaibhav/FighterPlane/src/can.cpp
 can.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+/home/vaibhav/FighterPlane/src/can.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+/home/vaibhav/FighterPlane/src/can.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.cpp
+/home/vaibhav/FighterPlane/src/checkpoint.cpp
 checkpoint.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
+/home/vaibhav/FighterPlane/src/checkpoint.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
+/home/vaibhav/FighterPlane/src/checkpoint.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/color.cpp
+/home/vaibhav/FighterPlane/src/color.cpp
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/fuel.cpp
+/home/vaibhav/FighterPlane/src/fuel.cpp
 fuel.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/fuel.h
+/home/vaibhav/FighterPlane/src/fuel.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/fuel.h
+/home/vaibhav/FighterPlane/src/fuel.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/input.cpp
+/home/vaibhav/FighterPlane/src/input.cpp
 iostream
 -
 cmath
@@ -110,45 +110,45 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.cpp
+/home/vaibhav/FighterPlane/src/main.cpp
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 timer.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/timer.h
+/home/vaibhav/FighterPlane/src/timer.h
 bg.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bg.h
+/home/vaibhav/FighterPlane/src/bg.h
 plane.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/plane.h
+/home/vaibhav/FighterPlane/src/plane.h
 ball.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ball.h
+/home/vaibhav/FighterPlane/src/ball.h
 alti.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/alti.h
+/home/vaibhav/FighterPlane/src/alti.h
 fuel.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/fuel.h
+/home/vaibhav/FighterPlane/src/fuel.h
 speedo.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/speedo.h
+/home/vaibhav/FighterPlane/src/speedo.h
 missile.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/missile.h
+/home/vaibhav/FighterPlane/src/missile.h
 bomb.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/bomb.h
+/home/vaibhav/FighterPlane/src/bomb.h
 ring.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ring.h
+/home/vaibhav/FighterPlane/src/ring.h
 pointer.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.h
+/home/vaibhav/FighterPlane/src/pointer.h
 can.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/can.h
+/home/vaibhav/FighterPlane/src/can.h
 volcano.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+/home/vaibhav/FighterPlane/src/volcano.h
 checkpoint.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/checkpoint.h
+/home/vaibhav/FighterPlane/src/checkpoint.h
 arrow.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/arrow.h
+/home/vaibhav/FighterPlane/src/arrow.h
 parachute.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
+/home/vaibhav/FighterPlane/src/parachute.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 iostream
 -
 cmath
@@ -170,17 +170,17 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/missile.cpp
+/home/vaibhav/FighterPlane/src/missile.cpp
 missile.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/missile.h
+/home/vaibhav/FighterPlane/src/missile.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/missile.h
+/home/vaibhav/FighterPlane/src/missile.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/nonedit.cpp
+/home/vaibhav/FighterPlane/src/nonedit.cpp
 iostream
 -
 cmath
@@ -200,9 +200,9 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/other_handlers.cpp
+/home/vaibhav/FighterPlane/src/other_handlers.cpp
 iostream
 -
 cmath
@@ -222,77 +222,77 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.cpp
+/home/vaibhav/FighterPlane/src/parachute.cpp
 parachute.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
+/home/vaibhav/FighterPlane/src/parachute.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/parachute.h
+/home/vaibhav/FighterPlane/src/parachute.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/plane.cpp
+/home/vaibhav/FighterPlane/src/plane.cpp
 plane.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/plane.h
+/home/vaibhav/FighterPlane/src/plane.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/plane.h
+/home/vaibhav/FighterPlane/src/plane.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.cpp
+/home/vaibhav/FighterPlane/src/pointer.cpp
 pointer.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.h
+/home/vaibhav/FighterPlane/src/pointer.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 math.h
 -
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/pointer.h
+/home/vaibhav/FighterPlane/src/pointer.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ring.cpp
+/home/vaibhav/FighterPlane/src/ring.cpp
 ring.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ring.h
+/home/vaibhav/FighterPlane/src/ring.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 math.h
 -
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/ring.h
+/home/vaibhav/FighterPlane/src/ring.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/speedo.cpp
+/home/vaibhav/FighterPlane/src/speedo.cpp
 speedo.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/speedo.h
+/home/vaibhav/FighterPlane/src/speedo.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/speedo.h
+/home/vaibhav/FighterPlane/src/speedo.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/timer.cpp
+/home/vaibhav/FighterPlane/src/timer.cpp
 timer.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/timer.h
+/home/vaibhav/FighterPlane/src/timer.h
 GLFW/glfw3.h
 -
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/timer.h
+/home/vaibhav/FighterPlane/src/timer.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.cpp
+/home/vaibhav/FighterPlane/src/volcano.cpp
 volcano.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+/home/vaibhav/FighterPlane/src/volcano.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 
-/home/vaibhav/Assignments/Graphics/2/20171005/src/volcano.h
+/home/vaibhav/FighterPlane/src/volcano.h
 main.h
-/home/vaibhav/Assignments/Graphics/2/20171005/src/main.h
+/home/vaibhav/FighterPlane/src/main.h
 

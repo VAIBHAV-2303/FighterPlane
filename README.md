@@ -1,10 +1,8 @@
 # Fighter Plane
 
-
 ## Description
 
 A simple 3D plane simulator game, developed using basic OPenGl. The game is divided into 5 checkpoints. After destroying the last checkpoint, the game is completed.
-
 
 ## Basic features
 
@@ -21,6 +19,12 @@ A simple 3D plane simulator game, developed using basic OPenGl. The game is divi
 * Smoke Rings
 * Random flying parachutes
 
+## How To Run
+
+```bash
+bar@foo:~/FighterPlane/src$ make
+bar@foo:~/FighterPlane/src$ ./FighterPlane
+```
 
 ## Bonus Features
 
